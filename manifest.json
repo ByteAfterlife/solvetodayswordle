@@ -1,0 +1,10 @@
+{
+    "manifest_version": 3,
+    "name": "Solve My Wordle",
+    "version": "1.0",
+    "description": "Lazy and don't feel like solving the NYT wordle? (https://www.nytimes.com/games/wordle/index.html) No problem! Click the extension and copy the answer right to your clipboard.",
+    "action": {
+      "default_popup": "popup.html"
+    }
+  }
+  
